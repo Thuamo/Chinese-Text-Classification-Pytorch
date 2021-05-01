@@ -1,7 +1,0 @@
-location
-service
-establishment
-price
-clean
-useless
-highsentiment
